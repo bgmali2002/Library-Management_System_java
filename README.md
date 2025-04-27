@@ -83,7 +83,7 @@ Edit the DBConnection.java file to provide your MariaDB connection details (URL,
 
 Run the Application:
 
-Open the project in your IDE (e.g., NetBeans).
+Open the project in your IDE (e.g., IintelliJ,NetBeans).
 
 Run the LibraryApp.java file to start the application.
 
